@@ -2,3 +2,13 @@ body{
     background-color: rgb(0, 54, 0);
     color: #222;
 }
+#titulo {
+            color: black;
+            font-size: 12px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+.nombre {
+            color: yellow;
+            font-size: 12px;
+            font-family: 'Courier New', Courier, monospace;
+        }
