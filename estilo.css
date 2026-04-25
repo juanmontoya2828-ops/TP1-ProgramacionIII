@@ -1,15 +1,9 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(0, 54, 0);
-    color: #e5ff00;
-}
-#titulo {
-            color: rgb(255, 0, 0);
-            font-size: 62px;
             font-family: 'Courier New', Courier, monospace;
+            background-color: coral
         }
-.nombre {
-            color: yellow;
-            font-size: 12px;
-            font-family: 'Courier New', Courier, monospace;
+#titulo {
+            font-family: Arial, Helvetica, sans-serif;
+            color: green;
+            font-size: 62px;
         }
