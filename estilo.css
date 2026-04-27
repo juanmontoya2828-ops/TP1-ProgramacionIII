@@ -19,6 +19,7 @@ h3     {
 th      {
             color: black;
         }
-.titulo-rojo {
-    color: red;
-}
+footer  {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color: black;
+        }
